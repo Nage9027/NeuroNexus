@@ -1,5 +1,7 @@
 # NeuroNexus
 
+🔗 Live Demo: https://neuro-nexus-landing-page.netlify.app
+
 ## Task 1 - Landing Page
 
 This repository contains the solution for **Task 1** of the NeuroNexus Internship Program.  
